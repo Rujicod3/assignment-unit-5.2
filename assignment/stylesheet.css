@@ -1,0 +1,12 @@
+header {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+}
+body {
+margin: 0;
+padding: 1em;
+}
